@@ -79,6 +79,9 @@
     justify-content: center;
     align-items: center;
   }
+  .navbar-shopping-cart:hover {
+    cursor: pointer;
+  }
   /* Navbar - End */
 
   /* Desktop Menu / Right Menu - Start */
